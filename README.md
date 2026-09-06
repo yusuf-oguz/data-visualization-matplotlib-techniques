@@ -13,11 +13,15 @@
 
 Toplamda tek bir çalışmada 9 farklı görselleştirme tekniği var, hepsi saf matplotlib ile.
 
+**Kapsam:** üç veri setini görselleştiren odaklı bir egzersiz, modelleme veya pipeline çalışması içermiyor.
+
 </details>
 
 ---
 
 Three unrelated datasets, each turned into a four-panel dashboard figure, using nothing but matplotlib. No seaborn, no plotly, no high-level plotting wrapper anywhere.
+
+**Scope:** a focused visualization exercise across three datasets, no modeling or pipeline work involved.
 
 ## Problem 1: Streaming Users Dashboard
 
