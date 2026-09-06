@@ -15,6 +15,8 @@ Toplamda tek bir çalışmada 9 farklı görselleştirme tekniği var, hepsi saf
 
 </details>
 
+---
+
 Three unrelated datasets, each turned into a four-panel dashboard figure, using nothing but matplotlib. No seaborn, no plotly, no high-level plotting wrapper anywhere.
 
 ## Problem 1: Streaming Users Dashboard
