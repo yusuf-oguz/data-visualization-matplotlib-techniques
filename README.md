@@ -39,7 +39,7 @@ Nine visualization techniques across the three problems: violin plot, grouped ba
 
 | File | What it is |
 |---|---|
-| `homework2.ipynb` | All three solutions, code and rendered figures |
+| `dashboards.ipynb` | All three solutions, code and rendered figures |
 | `streaming_users.csv` | Dataset for Problem 1 |
 | `city_weather_aqi.csv` | Dataset for Problem 2 |
 
